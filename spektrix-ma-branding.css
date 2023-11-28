@@ -8631,7 +8631,7 @@ input[type="submit"], input[type="button"], input[type="reset"], button[type="su
     font-weight: bold;
     border: none;
     margin-bottom: 1%;
-    background: #16A3BD;
+    background: #00A39E;
     color: #fff;
     height: 34px;
     padding-left: 10px;
@@ -9688,7 +9688,7 @@ img {
 }
 
 .c-btn--primary, .Basket2 #ctl00_ContentPlaceHolder_WhatsOnLink, .Basket2 .CheckoutLink, .Basket2 .Savings input[type="submit"], .Basket2 .Promo .PromoItems input.Button, .Buttons .Continue, .LoginLogout .Buttons .NextButton, .LoginLogout .Buttons .CreateButton, .NewAccount .Buttons .NextButton, .NewAccount .Buttons .CreateButton, .ForgotPassword .Buttons .NextButton, .ForgotPassword .Buttons .CreateButton, .LoginLogout .Buttons #ctl00_ContentPlaceHolder_LoginButton, .NewAccount .Buttons #ctl00_ContentPlaceHolder_LoginButton, .ForgotPassword .Buttons #ctl00_ContentPlaceHolder_LoginButton, .LoginLogout .Buttons .PreviousButton, .NewAccount .Buttons .PreviousButton, .ForgotPassword .Buttons .PreviousButton, .LoginLogout .Buttons .Logout, .NewAccount .Buttons .Logout, .ForgotPassword .Buttons .Logout, .ForgotPassword #ctl00_ContentPlaceHolder_ResetPassword, div.MyFixedSubscriptions .FixedSubscription a, .spx-button-primary__checkout, .spx-section-container .ConfirmButton, .UpdateButton {
-    background-color: #16A3BD
+    background-color: #00A39E
 }
 
 .c-btn--primary, .Basket2 #ctl00_ContentPlaceHolder_WhatsOnLink, .Basket2 .CheckoutLink, .Basket2 .Savings input[type="submit"], .Basket2 .Promo .PromoItems input.Button, .Buttons .Continue, .LoginLogout .Buttons .NextButton, .LoginLogout .Buttons .CreateButton, .NewAccount .Buttons .NextButton, .NewAccount .Buttons .CreateButton, .ForgotPassword .Buttons .NextButton, .ForgotPassword .Buttons .CreateButton, .LoginLogout .Buttons #ctl00_ContentPlaceHolder_LoginButton, .NewAccount .Buttons #ctl00_ContentPlaceHolder_LoginButton, .ForgotPassword .Buttons #ctl00_ContentPlaceHolder_LoginButton, .LoginLogout .Buttons .PreviousButton, .NewAccount .Buttons .PreviousButton, .ForgotPassword .Buttons .PreviousButton, .LoginLogout .Buttons .Logout, .NewAccount .Buttons .Logout, .ForgotPassword .Buttons .Logout, .ForgotPassword #ctl00_ContentPlaceHolder_ResetPassword, div.MyFixedSubscriptions .FixedSubscription a, .spx-button-primary__checkout, .spx-section-container .ConfirmButton, .UpdateButton, .c-btn--primary:hover, .Basket2 #ctl00_ContentPlaceHolder_WhatsOnLink:hover, .Basket2 .CheckoutLink:hover, .Basket2 .Savings input:hover[type="submit"], .Basket2 .Promo .PromoItems input.Button:hover, .Buttons .Continue:hover, .LoginLogout .Buttons .NextButton:hover, .LoginLogout .Buttons .CreateButton:hover, .NewAccount .Buttons .NextButton:hover, .NewAccount .Buttons .CreateButton:hover, .ForgotPassword .Buttons .NextButton:hover, .ForgotPassword .Buttons .CreateButton:hover, .LoginLogout .Buttons #ctl00_ContentPlaceHolder_LoginButton:hover, .NewAccount .Buttons #ctl00_ContentPlaceHolder_LoginButton:hover, .ForgotPassword .Buttons #ctl00_ContentPlaceHolder_LoginButton:hover, .LoginLogout .Buttons .PreviousButton:hover, .NewAccount .Buttons .PreviousButton:hover, .ForgotPassword .Buttons .PreviousButton:hover, .LoginLogout .Buttons .Logout:hover, .NewAccount .Buttons .Logout:hover, .ForgotPassword .Buttons .Logout:hover, .ForgotPassword #ctl00_ContentPlaceHolder_ResetPassword:hover, div.MyFixedSubscriptions .FixedSubscription a:hover, .spx-button-primary__checkout:hover, .spx-section-container .ConfirmButton:hover, .UpdateButton:hover, .c-btn--primary:active, .Basket2 #ctl00_ContentPlaceHolder_WhatsOnLink:active, .Basket2 .CheckoutLink:active, .Basket2 .Savings input:active[type="submit"], .Basket2 .Promo .PromoItems input.Button:active, .Buttons .Continue:active, .LoginLogout .Buttons .NextButton:active, .LoginLogout .Buttons .CreateButton:active, .NewAccount .Buttons .NextButton:active, .NewAccount .Buttons .CreateButton:active, .ForgotPassword .Buttons .NextButton:active, .ForgotPassword .Buttons .CreateButton:active, .LoginLogout .Buttons #ctl00_ContentPlaceHolder_LoginButton:active, .NewAccount .Buttons #ctl00_ContentPlaceHolder_LoginButton:active, .ForgotPassword .Buttons #ctl00_ContentPlaceHolder_LoginButton:active, .LoginLogout .Buttons .PreviousButton:active, .NewAccount .Buttons .PreviousButton:active, .ForgotPassword .Buttons .PreviousButton:active, .LoginLogout .Buttons .Logout:active, .NewAccount .Buttons .Logout:active, .ForgotPassword .Buttons .Logout:active, .ForgotPassword #ctl00_ContentPlaceHolder_ResetPassword:active, div.MyFixedSubscriptions .FixedSubscription a:active, .spx-button-primary__checkout:active, .spx-section-container .ConfirmButton:active, .UpdateButton:active, .c-btn--primary:focus, .Basket2 #ctl00_ContentPlaceHolder_WhatsOnLink:focus, .Basket2 .CheckoutLink:focus, .Basket2 .Savings input:focus[type="submit"], .Basket2 .Promo .PromoItems input.Button:focus, .Buttons .Continue:focus, .LoginLogout .Buttons .NextButton:focus, .LoginLogout .Buttons .CreateButton:focus, .NewAccount .Buttons .NextButton:focus, .NewAccount .Buttons .CreateButton:focus, .ForgotPassword .Buttons .NextButton:focus, .ForgotPassword .Buttons .CreateButton:focus, .LoginLogout .Buttons #ctl00_ContentPlaceHolder_LoginButton:focus, .NewAccount .Buttons #ctl00_ContentPlaceHolder_LoginButton:focus, .ForgotPassword .Buttons #ctl00_ContentPlaceHolder_LoginButton:focus, .LoginLogout .Buttons .PreviousButton:focus, .NewAccount .Buttons .PreviousButton:focus, .ForgotPassword .Buttons .PreviousButton:focus, .LoginLogout .Buttons .Logout:focus, .NewAccount .Buttons .Logout:focus, .ForgotPassword .Buttons .Logout:focus, .ForgotPassword #ctl00_ContentPlaceHolder_ResetPassword:focus, div.MyFixedSubscriptions .FixedSubscription a:focus, .spx-button-primary__checkout:focus, .spx-section-container .ConfirmButton:focus, .UpdateButton:focus {
@@ -13796,7 +13796,7 @@ html, body {
 }
 
 #ctl00_ContentPlaceHolder_CheckoutLink, #ctl00_ContentPlaceHolder_ContinueButton, #ctl00_ContentPlaceHolder_UpdateBasketButton, #ctl00_ContentPlaceHolder_WhatsOnLink, #ctl00_ContentPlaceHolder_ItemsUpdate .Buttons .ItemEditButton, #ctl00_ContentPlaceHolder_ItemsUpdate .Buttons .ItemDeleteButton, .ConfirmButton {
-    background-color: #16A3BD;
+    background-color: #00A39E;
     font-size: 0.875rem !important;
     cursor: pointer;
     transition: all 150ms ease-in-out
@@ -14228,7 +14228,7 @@ input::placeholder {
 }
 
 .ForgotPassword #ctl00_ContentPlaceHolder_ResetPassword {
-    font-weight: normal !important
+    font-weight: bold !important
 }
 
 .ForgotPassword .Input_Text {
